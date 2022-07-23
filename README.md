@@ -2,7 +2,7 @@
 This tool will search for the given regular expression in all log files, which should be in the working directory.
 
 ## Usage
-* Navigate to your server's logs directory in a terminal, via SSH or otherwise.
+* Navigate to your server's `logs/` directory in a terminal, via SSH or otherwise.
 * Download the script with `wget https://raw.githubusercontent.com/gecko10000/LogSearch/master/logsearch.sh`.
 * Make it executable with `chmod +x logsearch.sh`.
 * Run it with `./logsearch.sh "<regex>"`.
