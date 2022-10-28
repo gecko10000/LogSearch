@@ -10,3 +10,4 @@ This tool will search for the given regular expression in all Minecraft log file
 ## Regular Expressions
 
 The simplest way to understand regular expressions and how they work is by experimenting on [Regex101](https://regex101.com/) or a similar website. Make sure that the expression is surrounded by quotes and [certain characters are escaped](https://www.man7.org/linux/man-pages/man1/grep.1.html#REGULAR_EXPRESSIONS) (listed at the bottom).
+

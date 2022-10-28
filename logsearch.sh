@@ -11,3 +11,4 @@ for file in "${files[@]}"; do
 done
 print_info "$1" "latest.log"
 grep -ne "$1" < latest.log
+
